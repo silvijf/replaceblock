@@ -15,6 +15,7 @@ If you did it right, the file structure should be like this:
 
 ## How this works
 Every time you move, the block under your feet is replaced by a random block, if the block under your feet is already a block (not `air`).
+This datapack doesn't work (yet) with multiplayer!
 
 ## Enabling the datapack
 To enable, you must run:
