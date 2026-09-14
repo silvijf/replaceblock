@@ -24,7 +24,7 @@ To enable, you must run:
 ```
 ~If~ When you're tired of this datapack, you can run:
 ```mcfunction
-/function replaceblock
+/function replaceblock:stop
 ```
 
 [^1]: If it works with your Minecraft, or you (think you) know what the problem is, please create an [issue](https://github.com/silvijf/replaceblock/issues).
